@@ -21,3 +21,5 @@ import:
 - package: golang.org/x/sys
   subpackages:
   - unix
+- package: github.com/gorilla/websocket
+  version: ^1.2.0
